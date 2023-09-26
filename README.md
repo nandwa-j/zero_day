@@ -1,1 +1,1 @@
-this is a markdown text
+This is a vagrant project which is optional, lets try it out
